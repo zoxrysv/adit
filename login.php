@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login</title>
+    <title>Login adit tampan banget</title>
 </head>
 <body>
     <h2>Login</h2>
